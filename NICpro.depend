@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1300187050 source:c:\workplace\cpp\nic\nicpro\main.cpp
+	"pcap.h"
+	<iostream>
+
+1300364895 source:c:\workplace\cpp\nic\nicpro\capturepacket.cpp
+	"iostream"
+	"mem.h"
+	"pcap.h"
+	"pcap-bpf.h"
+	"capturepacket.h"
+	"setting.h"
+
+1300202514 c:\workplace\cpp\nic\nicpro\capturepacket.h
+
+1300018490 source:c:\workplace\cpp\nic\nicpro\setting.cpp
+	"iostream"
+	"windows.h"
+	<process.h>
+	"setting.h"
+
+1300194377 c:\workplace\cpp\nic\nicpro\setting.h
+
+1300365769 source:c:\workplace\cpp\nic\nicpro\processer.cpp
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"windows.h"
+	"iostream"
+	"processer.h"
+	"setting.h"
+	"capturepacket.h"
+
+1300363886 c:\workplace\cpp\nic\nicpro\processer.h
+
+1300365664 source:c:\workplace\cpp\nic\nicpro\dbconnector.cpp
+	<iostream>
+	<winsock.h>
+	<stdio.h>
+	"capturepacket.h"
+	"processer.h"
+	"setting.h"
+	"mysql.h"
+
+1302496811 source:d:\workplace\cpp\nic\nicpro\dbconnector.cpp
+	<iostream>
+	<winsock.h>
+	<stdio.h>
+	"capturepacket.h"
+	"processer.h"
+	"setting.h"
+	"mysql.h"
+
+1302496811 d:\workplace\cpp\nic\nicpro\capturepacket.h
+
+1302496811 d:\workplace\cpp\nic\nicpro\processer.h
+
+1302496811 d:\workplace\cpp\nic\nicpro\setting.h
+
+1302496811 source:d:\workplace\cpp\nic\nicpro\main.cpp
+	"pcap.h"
+	<iostream>
+
+1302496811 source:d:\workplace\cpp\nic\nicpro\setting.cpp
+	"iostream"
+	"windows.h"
+	<process.h>
+	"setting.h"
+
+1302496811 source:d:\workplace\cpp\nic\nicpro\capturepacket.cpp
+	"iostream"
+	"mem.h"
+	"pcap.h"
+	"pcap-bpf.h"
+	"capturepacket.h"
+	"setting.h"
+
+1302496811 source:d:\workplace\cpp\nic\nicpro\processer.cpp
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"windows.h"
+	"iostream"
+	"processer.h"
+	"setting.h"
+	"capturepacket.h"
+
